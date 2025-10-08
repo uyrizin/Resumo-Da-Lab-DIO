@@ -3,5 +3,5 @@
 
 
 
-   Bom nas aulas de hoje sonbre computação em nuvem com AZURE foi a comparar modelos em nuvem 
-   como funciona a infra como CapEX e OpEX foi aprendido como criar uma conta na azure 
+   Bom nas aulas de hoje sobre computação em nuvem com AZURE foi sobre como   comparar modelos em nuvem 
+   como funciona a infra como CapEX e OpEX, e como criar uma conta na azure 
